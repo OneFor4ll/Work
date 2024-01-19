@@ -1,0 +1,11 @@
+{
+    "profissao":{
+        "pescador":{"nome":"Pescador","salario":700,"localizaocao":"funchal","telefone":929292929,"img":"img/img1.png"},
+        "dentista":{"nome":"Denstista","salario":790,"localizaocao":"funchal","telefone":929292929},
+        "empregado":{"nome":"Empregado","salario":222,"localizaocao":"funchal","telefone":929292929},
+        "programador":{"nome":"Programador","salario":10000,"localizaocao":"funchal","telefone":929292929}
+        
+    } 
+
+    
+}
